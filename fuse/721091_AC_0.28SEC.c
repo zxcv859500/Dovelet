@@ -1,0 +1,1 @@
+main(a,b,c){scanf("%d%d%d",&a,&b,&c);printf("%d0 amperes",(a*5+b*4+c+9)/10);}

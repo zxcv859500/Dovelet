@@ -1,0 +1,1 @@
+print raw_input(변의 길이: )*input(변의 길이:)
